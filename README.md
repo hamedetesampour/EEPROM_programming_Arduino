@@ -1,7 +1,7 @@
 # EEPROM_programming_Arduino
 In this project we are aiming to reprogram and infected e2prom with Arduino IDE. The bits and their relative registers should be written regarding to your objectives. 
 ## EEPROM Registers
-The project is based on DS2430A - Dallas Semiconductor which uses 1-Wire communication. You easily can find its datasheet online. The relative control commands and initializing circuits are extracted from the datasheet, and to transfer commands and data bits to the EEPROM, <OneWire.h> library has been used. 
+The project is based on DS2430A - Dallas Semiconductor which uses 1-Wire communication (you easily can find its datasheet online). The relative control commands and initializing circuits are extracted from the datasheet, and <OneWire.h> library has been used to transfer commands and data bits to the EEPROM. 
 ## Instructions
 ### Hardware
 Aruino UNO R3 with serial communication and below circuit diagram has been used for running and testing the codes. Remember that pull-up/down resistors and capacitors' values may vary regarding to your IC models and manuals.
