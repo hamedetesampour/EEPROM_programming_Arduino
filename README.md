@@ -7,7 +7,7 @@ The project is based on DS2430A - Dallas Semiconductor which uses 1-Wire communi
 Aruino UNO R3 with serial communication and below circuit diagram has been used for running and testing the codes. Remember that pull-up/down resistors and capacitors' values may vary regarding to your IC models and manuals.
 
 <p align="center">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/108813301/256978038-54d77738-49c5-4aa4-90d3-dfca49caee07.png" width="643" height="336" />
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/108813301/256978038-54d77738-49c5-4aa4-90d3-dfca49caee07.png" width="400" height="320" />
 </p>  <br />
 
 ### Software
